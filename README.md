@@ -25,7 +25,6 @@ Machine-learning-assisted network intrusion detection system.
 - Analyzes network traffic for anomalous behavior
 - Uses **Isolation Forest** for anomaly detection
 - Evaluated using **CICIDS2017**
-- Correlates ML anomalies with **Snort IDS signatures**
 - Designed to improve alert prioritization and reduce false positives
 
 → [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS.git)
