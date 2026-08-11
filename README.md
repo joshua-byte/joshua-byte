@@ -28,7 +28,7 @@ Machine-learning-assisted network intrusion detection system.
 - Correlates ML anomalies with **Snort IDS signatures**
 - Designed to improve alert prioritization and reduce false positives
 
-→ [View Project](./Anomaly-Detection-IDS)
+→ [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS.git)
 
 ---
 
@@ -40,7 +40,7 @@ Automated network reconnaissance and attack-surface mapping framework.
 - Automates reconnaissance and credential discovery workflows
 - Maps findings across network services to support security assessment
 
-→ [View Project](./PivotRaid)
+→ [View Project](https://github.com/joshua-byte/PivotRaid.git)
 
 ---
 
@@ -52,7 +52,7 @@ Graph-based modeling of attack propagation and lateral movement.
 - Performs attack-path analysis
 - Identifies critical nodes and potential network segmentation improvements
 
-→ [View Project](./Lambda-Shield)
+→ [View Project](https://github.com/joshua-byte/Lambda-Shield.git)
 
 ---
 
