@@ -149,7 +149,7 @@ Research examining imperfection as a constitutive property of artificial intelli
 - **Ethical Hacker** — Cisco  
   [View Credential →](https://www.credly.com/badges/6ccfcaac-8413-47c0-941b-e536d32e54fc/public_url)
 
-- **Cloud Security** — IBM Skills Builid
+- **Cloud Security** — IBM  
   [View Credential →](https://www.credly.com/badges/2a1219f8-0e79-42ab-bf89-4feeda44f737/public_url)
 
 - **Crash Course on Python** — Google · Coursera  
