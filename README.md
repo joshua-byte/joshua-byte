@@ -1,101 +1,124 @@
-# Hi, I'm Joshua Sanctus 👋
+# Hi, I'm Joshua Jesuraj Sanctus 👋
 
-### Cybersecurity Undergraduate · Detection Engineering · Offensive Security · Security Analytics
+### Network VAPT · Network Security · Security Engineering
 
-I'm a Computer Science undergraduate at **RV University, Bengaluru**, focused on building practical security systems and studying how attacks, networks, and security signals can be modeled computationally.
+I'm a Computer Science undergraduate at **RV University, Bengaluru**, focused on **network vulnerability assessment, penetration testing, and network security**.
 
-My interests sit at the intersection of **defensive security, offensive security, and security research** — from detecting anomalous network behavior to analyzing attack surfaces and modeling how compromise can propagate through interconnected systems.
-
----
-
-##  Featured Projects
-
-###  Anomaly-Detection-IDS
-
-**Machine-learning-assisted network intrusion detection system**
-
-A network security project focused on identifying anomalous traffic and improving the usefulness of IDS alerts.
-
-* Applies **Isolation Forest** for unsupervised anomaly detection
-* Analyzes network traffic for suspicious behavioral patterns
-* Evaluated using the **CICIDS2017** dataset
-* Explores alert prioritization and false-positive reduction
-* Focuses on applying machine learning to practical network detection
-
-→ [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS)
+I enjoy understanding how networked systems are exposed, how services and configurations create attack surfaces, and how attackers can move through interconnected environments. My work combines **offensive security, security assessment, and attack-path analysis**, with supporting interests in detection engineering, cloud security, machine learning, and AI security.
 
 ---
 
-###  PivotRaid
+## Core Focus
 
-**Lightweight security assessment automation tool for FTP, SMB, and SSH environments**
+| Primary Focus | Supporting Focus |
+|---|---|
+| **Network VAPT** | Detection Engineering |
+| **Network Security** | Cloud Security |
+| **Network Reconnaissance** | Machine Learning |
+| **Attack-Surface Analysis** | AI Security |
+| **Attack-Path & Lateral-Movement Analysis** | Security Research |
+| **Enterprise / Active Directory Security** | Security Analytics |
 
-A Python-based security assessment tool designed to automate service enumeration, identify security-relevant configurations, and correlate observations across exposed network services.
+---
 
-* Enumerates **FTP, SMB, and SSH** services
-* Identifies exposed services and security misconfigurations
-* Detects potential sensitive-file and credential exposure
-* Performs SSH fingerprinting and vulnerability intelligence enrichment
-* Correlates findings across services to identify potential exposure paths
-* Applies **confidence-aware risk scoring**
-* Generates structured **HTML security assessment reports**
+## Featured Projects
 
-> Designed for authorized security assessments and VAPT workflows.
+### PivotRaid
+
+**Network Security Assessment & Reconnaissance Tool**
+
+A Python-based security assessment tool for analyzing exposed **FTP, SMB, and SSH** services and turning reconnaissance findings into a structured view of network exposure.
+
+- Enumerates **FTP, SMB, and SSH** services
+- Identifies exposed services and security misconfigurations
+- Detects potential sensitive-file and credential exposure
+- Performs SSH fingerprinting and vulnerability intelligence enrichment
+- Correlates observations across services to identify potential exposure paths
+- Applies **confidence-aware risk scoring**
+- Generates structured **HTML security assessment reports**
+
+**Focus:** Network VAPT · Reconnaissance · Attack-Surface Mapping · Security Assessment
+
+**Technologies:** Python · FTP · SMB · SSH · Linux · Networking
 
 → [View Project](https://github.com/joshua-byte/PivotRaid)
 
 ---
 
-###  Lambda-Shield
+### Lambda-Shield
 
-**Graph-based modeling of attack propagation and lateral movement**
+**Graph-Based Attack Propagation & Lateral-Movement Modeling**
 
-A security modeling project that represents enterprise environments as graphs to study how compromise can propagate across connected systems.
+A security modeling project that represents network environments as graphs to study how compromise can propagate across connected systems.
 
-* Represents network environments using **directed graphs**
-* Models attacker progression and compromise relationships
-* Performs attack-path analysis
-* Identifies critical nodes and potential propagation paths
-* Explores how network segmentation can reduce attack propagation
+- Models enterprise environments using **directed graphs**
+- Represents attacker progression and compromise relationships
+- Performs attack-path analysis
+- Identifies critical nodes and potential propagation paths
+- Explores how network segmentation can limit attack propagation
+
+**Focus:** Network Security · Attack-Path Analysis · Lateral Movement · Security Modeling
+
+**Technologies:** Python · NetworkX · Graph-Based Modeling
 
 → [View Project](https://github.com/joshua-byte/Lambda-Shield)
 
 ---
 
-## Technical Skills
+### Anomaly-Detection-IDS
 
-### Security Engineering
+**Machine-Learning-Assisted Network Intrusion Detection**
 
-VAPT · Web & API Security · OWASP Top 10 · Network Enumeration
-Attack Surface Mapping · Privilege Escalation · Threat Detection
-Security Assessment · Attack-Path Analysis
+A network security project focused on identifying anomalous traffic and improving the usefulness of IDS alerts.
 
-### Detection & Security Analytics
+- Applies **Isolation Forest** for unsupervised anomaly detection
+- Analyzes network traffic for anomalous behavior
+- Evaluated using **CICIDS2017**
+- Explores alert prioritization and false-positive reduction
+- Applies machine learning to practical network detection
 
-Intrusion Detection · Anomaly Detection · Alert Triage
-Threat Hunting · MITRE ATT&CK · False-Positive Reduction
-Network Traffic Analysis · Packet Analysis
+**Focus:** Network Security · IDS · Detection Engineering · Security Analytics
 
-### Tools & Technologies
+**Technologies:** Python · Machine Learning · Isolation Forest · Snort
 
-Python · Bash · Linux · Git · NetworkX
-Nmap · Burp Suite · Metasploit · Nessus · Wireshark · Snort
-
-### Networking
-
-TCP/IP · HTTP/HTTPS · DNS · FTP · SMB · SSH
-
-### Cloud
-
-AWS · IAM
-
-### Other
-
-LaTeX · Machine Learning for Cybersecurity
+→ [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS)
 
 ---
 
-##  Research & Publications
+## Technical Skills
+
+### Network VAPT & Security
+
+Network Enumeration · Reconnaissance · Attack-Surface Mapping  
+Vulnerability Assessment · Network Security · Privilege Escalation  
+Attack-Path Analysis · Lateral Movement
+
+### Networking
+
+TCP/IP · DNS · HTTP/HTTPS · SMB · FTP · SSH  
+Network Traffic Analysis · Packet Analysis · Network Protocols
+
+### Security Tools
+
+Nmap · Wireshark · Nessus · Metasploit · Burp Suite · Snort  
+Linux · Git
+
+### Web & Application Security
+
+Web Security · API Security · OWASP Top 10 · VAPT
+
+### Detection & Security Analytics
+
+IDS · Anomaly Detection · Alert Triage · Threat Hunting  
+MITRE ATT&CK · False-Positive Reduction · Security Analytics
+
+### Programming, Cloud & ML
+
+Python · Bash · AWS · IAM · Machine Learning · NetworkX
+
+---
+
+## Research & Publications
 
 ### Cybersecurity
 
@@ -105,11 +128,11 @@ LaTeX · Machine Learning for Cybersecurity
 
 [![IEEE](https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square)](https://doi.org/10.1109/I3CTCON68242.2026.11507173)
 
-Research focused on probabilistic modeling of worm propagation across large-scale network topologies under uncertainty.
+Research on probabilistic modeling of worm propagation across large-scale network topologies under uncertainty.
 
 ---
 
-### Artificial Intelligence & Philosophy
+### Artificial Intelligence
 
 **Imperfection as a Constitutive Property of Artificial Intelligence**
 
@@ -117,26 +140,71 @@ Research focused on probabilistic modeling of worm propagation across large-scal
 
 [![Springer](https://img.shields.io/badge/Springer-Article-2E8B57?style=flat-square)](https://doi.org/10.1007/s00146-025-02837-2)
 
-Research examining imperfection as a constitutive feature of artificial intelligence and its implications for understanding AI systems.
+Research examining imperfection as a constitutive property of artificial intelligence.
+
+---
+
+## Certifications & Credentials
+
+- **Ethical Hacker** — Cisco  
+  [View Credential →](https://www.credly.com/badges/6ccfcaac-8413-47c0-941b-e536d32e54fc/public_url)
+
+- **Cloud Security** — Cisco  
+  [View Credential →](https://www.credly.com/badges/2a1219f8-0e79-42ab-bf89-4feeda44f737/public_url)
+
+- **Crash Course on Python** — Google · Coursera  
+  [View Credential →](https://coursera.org/share/1ebe2a58354d0a157b99a8be646b60fd)
 
 ---
 
 ## Currently Exploring
 
-* Detection engineering
-* Network intrusion detection
-* Security analytics
-* Offensive security & VAPT
-* Attack-surface and attack-path analysis
-* Machine learning for cybersecurity
-* Security research
-* Computational modeling of complex systems
+### Windows & Active Directory Security
+
+Learning how to **attack and secure enterprise Windows environments**, with a focus on:
+
+- Active Directory fundamentals
+- AD enumeration
+- Kerberos and authentication
+- SMB and LDAP
+- Users, groups, permissions, and GPOs
+- Attack paths and privilege escalation
+- Lateral movement
+- Detection and remediation
+
+### AI Security
+
+Exploring security problems emerging from modern AI systems, including:
+
+- AI security fundamentals
+- Adversarial behavior and attack surfaces
+- Security implications of AI-enabled systems
+- Detection and mitigation approaches
+- The intersection of cybersecurity and AI
+
+---
+
+## Direction
+
+My long-term focus is building toward **network and enterprise security**, particularly the offensive assessment and defense of interconnected systems.
+
+I'm especially interested in the space where:
+
+**Network VAPT**  
+↓  
+**Enterprise & Active Directory Security**  
+↓  
+**Attack Paths & Lateral Movement**  
+↓  
+**Detection & Defense**
+
+with **cloud security, machine learning, and AI security** providing additional depth.
 
 ---
 
 ## Contact
 
-**Email:** [jjesuraj37@gmail.com](mailto:jjesuraj37@gmail.com)
+**Email:** jjesuraj37@gmail.com
 
 **ORCID:** 0009-0004-8608-3683
 
