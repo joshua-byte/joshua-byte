@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Jesuraj Sanctus 👋
 
-### Network VAPT · Network Security · Security Engineering
+### VAPT · Network VAPT · Network Security
 
 I'm a Computer Science undergraduate at **RV University, Bengaluru**, focused on **network vulnerability assessment, penetration testing, and network security**.
 
