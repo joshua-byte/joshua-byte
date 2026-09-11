@@ -1,132 +1,145 @@
 # Hi, I'm Joshua Sanctus 👋
 
-### Cybersecurity Undergraduate | Detection Engineering | Offensive Security | Security Analytics
+### Cybersecurity Undergraduate · Detection Engineering · Offensive Security · Security Analytics
 
-I'm a Computer Science undergraduate at **RV University, Bengaluru**, interested in
-building practical security systems and understanding how attacks, networks, and
-security signals can be modeled computationally.
+I'm a Computer Science undergraduate at **RV University, Bengaluru**, focused on building practical security systems and studying how attacks, networks, and security signals can be modeled computationally.
 
-My work currently focuses on:
-
--  Detection engineering and network anomaly detection
--  Intrusion Detection Systems and alert analysis
--  Offensive security, VAPT, and attack-surface mapping
--  Network security and attack-path analysis
--  Machine learning for cybersecurity
--  Security research and analytical modeling
+My interests sit at the intersection of **defensive security, offensive security, and security research** — from detecting anomalous network behavior to analyzing attack surfaces and modeling how compromise can propagate through interconnected systems.
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
 ###  Anomaly-Detection-IDS
-Machine-learning-assisted network intrusion detection system.
 
-- Analyzes network traffic for anomalous behavior
-- Uses **Isolation Forest** for anomaly detection
-- Evaluated using **CICIDS2017**
-- Designed to improve alert prioritization and reduce false positives
+**Machine-learning-assisted network intrusion detection system**
 
-→ [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS.git)
+A network security project focused on identifying anomalous traffic and improving the usefulness of IDS alerts.
+
+* Applies **Isolation Forest** for unsupervised anomaly detection
+* Analyzes network traffic for suspicious behavioral patterns
+* Evaluated using the **CICIDS2017** dataset
+* Explores alert prioritization and false-positive reduction
+* Focuses on applying machine learning to practical network detection
+
+→ [View Project](https://github.com/joshua-byte/Anomaly-Detection-IDS)
 
 ---
 
 ###  PivotRaid
-Automated network reconnaissance and attack-surface mapping framework.
 
-- Enumerates **FTP and SMB** services
-- Identifies exposed services and misconfigurations
-- Automates reconnaissance and credential discovery workflows
-- Maps findings across network services to support security assessment
+**Lightweight security assessment automation tool for FTP, SMB, and SSH environments**
 
-→ [View Project](https://github.com/joshua-byte/PivotRaid.git)
+A Python-based security assessment tool designed to automate service enumeration, identify security-relevant configurations, and correlate observations across exposed network services.
+
+* Enumerates **FTP, SMB, and SSH** services
+* Identifies exposed services and security misconfigurations
+* Detects potential sensitive-file and credential exposure
+* Performs SSH fingerprinting and vulnerability intelligence enrichment
+* Correlates findings across services to identify potential exposure paths
+* Applies **confidence-aware risk scoring**
+* Generates structured **HTML security assessment reports**
+
+> Designed for authorized security assessments and VAPT workflows.
+
+→ [View Project](https://github.com/joshua-byte/PivotRaid)
 
 ---
 
 ###  Lambda-Shield
-Graph-based modeling of attack propagation and lateral movement.
 
-- Represents enterprise networks as directed graphs
-- Models attacker progression and compromise relationships
-- Performs attack-path analysis
-- Identifies critical nodes and potential network segmentation improvements
+**Graph-based modeling of attack propagation and lateral movement**
 
-→ [View Project](https://github.com/joshua-byte/Lambda-Shield.git)
+A security modeling project that represents enterprise environments as graphs to study how compromise can propagate across connected systems.
+
+* Represents network environments using **directed graphs**
+* Models attacker progression and compromise relationships
+* Performs attack-path analysis
+* Identifies critical nodes and potential propagation paths
+* Explores how network segmentation can reduce attack propagation
+
+→ [View Project](https://github.com/joshua-byte/Lambda-Shield)
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-**Languages**
+### Security Engineering
 
-Python · Bash · LaTeX
+VAPT · Web & API Security · OWASP Top 10 · Network Enumeration
+Attack Surface Mapping · Privilege Escalation · Threat Detection
+Security Assessment · Attack-Path Analysis
 
-**Security**
+### Detection & Security Analytics
 
-VAPT · Web & API Security · OWASP Top 10 · Network Enumeration  
-Privilege Escalation · Attack Surface Mapping · Threat Detection
+Intrusion Detection · Anomaly Detection · Alert Triage
+Threat Hunting · MITRE ATT&CK · False-Positive Reduction
+Network Traffic Analysis · Packet Analysis
 
-**Detection & Analysis**
+### Tools & Technologies
 
-Snort · Anomaly Detection · Alert Triage · Threat Hunting  
-MITRE ATT&CK · False Positive Reduction · Packet Analysis
+Python · Bash · Linux · Git · NetworkX
+Nmap · Burp Suite · Metasploit · Nessus · Wireshark · Snort
 
-**Tools**
-
-Burp Suite · Nmap · Metasploit · Nessus · Wireshark  
-NetworkX · Git · Linux
-
-**Networking**
+### Networking
 
 TCP/IP · HTTP/HTTPS · DNS · FTP · SMB · SSH
 
-**Cloud**
+### Cloud
 
 AWS · IAM
 
+### Other
+
+LaTeX · Machine Learning for Cybersecurity
+
 ---
 
-## 📚 Research & Publications
+##  Research & Publications
 
 ### Cybersecurity
 
-**Uncertainty-Driven Probabilistic Framework for Modeling Worm Propagation in Large-Scale Network Topologies**  
+**Uncertainty-Driven Probabilistic Framework for Modeling Worm Propagation in Large-Scale Network Topologies**
+
 *2026 IEEE International Conference for Convergence in Computing Technology (I3CTCON)*
 
 [![IEEE](https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square)](https://doi.org/10.1109/I3CTCON68242.2026.11507173)
+
+Research focused on probabilistic modeling of worm propagation across large-scale network topologies under uncertainty.
 
 ---
 
 ### Artificial Intelligence & Philosophy
 
-**Imperfection as a Constitutive Property of Artificial Intelligence**  
+**Imperfection as a Constitutive Property of Artificial Intelligence**
+
 *AI & Society — Springer Nature*
 
 [![Springer](https://img.shields.io/badge/Springer-Article-2E8B57?style=flat-square)](https://doi.org/10.1007/s00146-025-02837-2)
 
----
-
-##  Currently Exploring
-
-- Detection engineering
-- Network intrusion detection
-- Security analytics
-- Offensive security
-- Attack-path modeling
-- Machine learning for cybersecurity
-- Security research
+Research examining imperfection as a constitutive feature of artificial intelligence and its implications for understanding AI systems.
 
 ---
 
-##   Contact
+## Currently Exploring
 
-**Email:** jjesuraj37@gmail.com
+* Detection engineering
+* Network intrusion detection
+* Security analytics
+* Offensive security & VAPT
+* Attack-surface and attack-path analysis
+* Machine learning for cybersecurity
+* Security research
+* Computational modeling of complex systems
+
+---
+
+## Contact
+
+**Email:** [jjesuraj37@gmail.com](mailto:jjesuraj37@gmail.com)
 
 **ORCID:** 0009-0004-8608-3683
 
 ---
 
-> Building security tools, studying attacks, and trying to understand the
-> structure behind complex systems.
-
-
+> Building security tools, studying attacks, and trying to understand the structure behind complex systems.
