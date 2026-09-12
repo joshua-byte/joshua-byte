@@ -47,7 +47,7 @@ A Python-based security assessment tool for analyzing exposed **FTP, SMB, and SS
 
 ### Lambda-Shield
 
-**Graph-Based Attack Propagation & Lateral-Movement Modeling**
+**Attack Propagation & Lateral-Movement Modeling**
 
 A security modeling project that represents network environments as graphs to study how compromise can propagate across connected systems.
 
