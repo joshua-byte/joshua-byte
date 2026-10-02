@@ -94,9 +94,9 @@ Research project investigating entropy-inspired routing under controlled attack 
 
 ---
 
-### CVE Reproduction
+### CVE Reproduction Labs
 
-**Apache HTTP Server Vulnerability Reproduction**
+**CVE Reproduction and Vulnerability Analysis**
 
 Controlled reproduction of CVEs for vulnerability analysis and research.
 
