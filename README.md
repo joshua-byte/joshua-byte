@@ -39,7 +39,7 @@ IEEE — I3CTCON 2026
 **Imperfection as a Constitutive Property of Artificial Intelligence**  
 AI & Society — Springer Nature
 
- · [DOI](https://doi.org/10.1007/s00146-025-02837-2)
+[DOI](https://doi.org/10.1007/s00146-025-02837-2)
 
 ## Links
 
