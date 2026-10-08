@@ -1,8 +1,6 @@
-# Joshua Jesuraj Sanctus
+# Hi I'm Joshua Sanctus :D
 
-**Cybersecurity | VAPT | Security Research**
-
-Computer Science undergraduate at **RV University, Bengaluru**.
+A Computer Science undergraduate at **RV University, Bengaluru**.
 
 I work on cybersecurity, vulnerability assessment, network security, Active Directory, and security research. My research interests also include network modeling, attack propagation, and AI.
 
