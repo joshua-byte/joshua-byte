@@ -8,8 +8,7 @@ I work on cybersecurity, vulnerability assessment, network security, Active Dire
 
 - Active Directory & Windows Security
 - Network VAPT & Vulnerability Research
-- Detection Engineering
-- CVE Reproduction
+- Detection Engineering using ML and Statistical Metrics 
 - Network Security Research
 - AI Security
 
