@@ -23,6 +23,9 @@ Network modeling and malware propagation simulation.
 **[NetWatch](https://github.com/joshua-byte/NetWatch)**  
 Statistical network anomaly detection and traffic analysis.
 
+**[AI Security Labs](https://github.com/joshua-byte/AI-Security-Labs)**
+Labs to demonstrate and understand AI security.
+
 **[Active Directory Labs](https://github.com/joshua-byte/Active-Directory-Labs)**
 AD security attacks in a controlled lab environment. 
 
