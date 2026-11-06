@@ -1,33 +1,33 @@
-# Hi I'm Joshua Sanctus :D
+# Hi, I'm Joshua Sanctus :D
 
 A Computer Science undergraduate at **RV University, Bengaluru**.
 
-I work on cybersecurity, vulnerability assessment, network security, Active Directory, and security research. My research interests also include network modeling, attack propagation, and AI.
+I work on cybersecurity, with a focus on network security, penetration testing, vulnerability assessment, and security tooling. My interests also extend to AI security, machine learning for cybersecurity, and network security research.
 
 ## Currently Working On
 
-- Active Directory & Windows Security
-- Network VAPT & Vulnerability Research
-- Detection Engineering using ML and Statistical Metrics 
-- Network Security Research
-- AI Security
+- Network Penetration Testing & VAPT
+- Security Tool Development using Python
+- Network Detection Engineering using ML and Statistical Metrics
+- AI Security & LLM Vulnerability Research
+- Infrastructure Security and Active Directory
 
 ## Selected Projects
 
 **[PivotRaid](https://github.com/joshua-byte/PivotRaid)**  
-Network security assessment and reconnaissance tool for FTP, SMB and SSH.
+A network security assessment and reconnaissance tool for FTP, SMB and SSH, featuring vulnerability enrichment, risk assessment, cross-service correlation, and reporting.
 
 **[Lambda Shield](https://github.com/joshua-byte/CyberSecurity-Research/tree/main/Lambda-Shield)**  
-Network modeling and malware propagation simulation, exploring uncertainty-driven propagation dynamics across network topologies.
+Network modelling and malware propagation simulation, exploring uncertainty-driven propagation dynamics across network topologies.
 
 **[NetWatch](https://github.com/joshua-byte/NetWatch)**  
-Statistical network anomaly detection and traffic analysis.
+Statistical network anomaly detection and traffic analysis using packet capture, flow analysis, and anomaly detection.
 
-**[AI Security Labs](https://github.com/joshua-byte/AI-Security-Labs)**
-Labs to demonstrate and understand AI security.
+**[AI Security Labs](https://github.com/joshua-byte/AI-Security-Labs)**  
+Hands-on security experiments covering prompt injection, data poisoning, and RAG corpus poisoning, including mitigation testing.
 
-**[Active Directory Labs](https://github.com/joshua-byte/Active-Directory-Labs)**
-AD security attacks in a controlled lab environment. 
+**[VulnHub Boxes](https://github.com/joshua-byte/VulnHub-Boxes)**  
+Documented penetration-testing assessments of intentionally vulnerable machines, covering reconnaissance, exploitation, privilege escalation, and reporting.
 
 ## Research
 
